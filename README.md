@@ -1,6 +1,4 @@
-### Hi there 👋
 
-[![mmardi's 42 stats](https://badge.mediaplus.ma/greenbinary/mmardi)](https://github.com/oakoudad/badge42)
 
 <h1 align="center">Hi 👋, I'm Mustapha Mardi</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
