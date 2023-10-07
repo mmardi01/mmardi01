@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [www.mmardi.me](www.mmardi.me)
 
 - 💬 Ask me about **React, Nodejs**
 
