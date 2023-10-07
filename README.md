@@ -23,9 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmardi01&show_icons=true&locale=en&layout=compact" alt="mmardi01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmardi01&show_icons=true&locale=en" alt="mmardi01" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmardi01&show_icons=true&locale=en&layout=compact" alt="mmardi01" /></p>
 
 
